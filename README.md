@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a TA | Graphic Enigneer
+- 🔭 I’m currently working as a Graphic | Engine | TA Enigneer
 - 🌱 I’m currently learning vulkan & GameEngine development
 - 📫 How to reach me: leapp@foxmail.com
   
